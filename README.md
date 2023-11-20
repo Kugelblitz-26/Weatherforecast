@@ -1,2 +1,1 @@
 # Weatherforecast
-PRIDICT WEATHER
